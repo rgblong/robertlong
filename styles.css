@@ -12,11 +12,15 @@ header {
   padding: 20px;
 }
 
+.logo-container {
+  display: flex; /* Apply Flexbox layout */
+  align-items: flex-start; /* Align the logo and text at the top */
+}
+
 .logo {
-  height: 1em; /* an 'em' is the size of the font of the surrounding text */
+  height: 1em;
   width: auto;
   margin-right: 0.5em;
-  vertical-align: text-bottom;
 }
 
 header h1 {
