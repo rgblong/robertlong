@@ -15,8 +15,8 @@ header {
 .logo {
   height: 1em; /* an 'em' is the size of the font of the surrounding text */
   width: auto;
-  margin-right: 0.3em;
-  vertical-align: middle;
+  margin-right: 0.5em;
+  vertical-align: text-top;
 }
 
 header h1 {
