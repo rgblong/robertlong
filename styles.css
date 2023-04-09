@@ -1,0 +1,42 @@
+/* Basic styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+header {
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+header h1 {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav {
+  display: inline;
+}
+
+nav a {
+  text-decoration: none;
+  margin-right: 10px;
+  color: #333;
+}
+
+nav a:hover {
+  color: #555;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+}
