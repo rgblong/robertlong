@@ -13,15 +13,16 @@ header {
 }
 
 .logo {
-  height: 40px; /* Adjust this value to match the desired size */
+  height: 1em; /* an 'em' is the size of the font of the surrounding text */
   width: auto;
-  margin-right: 10px;
+  margin-right: 0.3em;
   vertical-align: middle;
 }
 
 header h1 {
   display: inline;
   margin-right: 20px;
+  font-size: 24px
 }
 
 nav {
