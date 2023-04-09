@@ -1,3 +1,2 @@
 # robertlong.io
-personal website
-I am trying to build an MVP website with GPT-4
+Afternoon project - building an MVP website with GPT-4, with minimal knowledge of html, css, and javascript
