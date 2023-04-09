@@ -12,21 +12,23 @@ header {
   padding: 20px;
 }
 
-.logo-container {
-  display: flex; /* Apply Flexbox layout */
-  align-items: flex-start; /* Align the logo and text at the top */
+.header-content {
+  display: inline-block;
+  position: relative;
 }
 
 .logo {
+  position: absolute;
+  left: 0;
+  bottom: 0;
   height: 1em;
   width: auto;
   margin-right: 0.5em;
 }
 
-header h1 {
-  display: inline;
-  margin-right: 20px;
-  font-size: 24px
+h1 {
+  font-size: 24px;
+  margin-left: 1.5em;
 }
 
 nav {
